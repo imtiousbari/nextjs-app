@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"/Volumes/FileManager/Personal projects/nextjs-app/app/page":["/Volumes/FileManager/Personal projects/nextjs-app/styles/globals.css"]},"/Volumes/FileManager/Personal projects/nextjs-app/app/layout.js":["/Volumes/FileManager/Personal projects/nextjs-app/styles/globals.css"]}
