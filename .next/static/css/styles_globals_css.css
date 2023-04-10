@@ -603,6 +603,27 @@ video {
 .w-48 {
   width: 12rem;
 }
+.w-\[\] {
+  width: ;
+}
+.w-\[700\] {
+  width: 700;
+}
+.w-\[700p\] {
+  width: 700p;
+}
+.w-\[700px\] {
+  width: 700px;
+}
+.w-\[500px\] {
+  width: 500px;
+}
+.w-\[600px\] {
+  width: 600px;
+}
+.w-\[650px\] {
+  width: 650px;
+}
 .max-w-\[1200px\] {
   max-width: 1200px;
 }
@@ -740,6 +761,9 @@ video {
 .p-2 {
   padding: 0.5rem;
 }
+.p-8 {
+  padding: 2rem;
+}
 .px-0 {
   padding-left: 0px;
   padding-right: 0px;
@@ -764,6 +788,14 @@ video {
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
+.px-8 {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+.py-8 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
 .pb-12 {
   padding-bottom: 3rem;
 }
@@ -781,6 +813,21 @@ video {
 }
 .pt-2\.5 {
   padding-top: 0.625rem;
+}
+.pr-8 {
+  padding-right: 2rem;
+}
+.pr-4 {
+  padding-right: 1rem;
+}
+.pl-4 {
+  padding-left: 1rem;
+}
+.pr-3 {
+  padding-right: 0.75rem;
+}
+.pl-3 {
+  padding-left: 0.75rem;
 }
 .font-jost {
   font-family: Jost, sans-serif;
